@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69271327-2d67-45c0-99b2-a7d0f64a5dc8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ser" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bioniclessons/week4/friday/task1/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bioniclessons/week4/friday/task2/Main.java" />
+    <list default="true" id="69271327-2d67-45c0-99b2-a7d0f64a5dc8" name="Default" comment="" />
+    <list id="fe2ed418-df6b-41bd-90fd-b708e85074d7" name="New changelist" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bioniclessons/week4/friday/task3/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bioniclessons/week4/friday/task1/MyClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyClass.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bioniclessons/week4/friday/task1/Other.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BionicLessosn.iws" />
@@ -429,6 +422,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="69271327-2d67-45c0-99b2-a7d0f64a5dc8" name="Default" comment="" />
+      <changelist id="fe2ed418-df6b-41bd-90fd-b708e85074d7" name="New changelist" comment="" />
       <created>1414570798127</created>
       <option name="number" value="Default" />
       <updated>1414570798127</updated>
@@ -445,7 +439,13 @@
       <option name="project" value="LOCAL" />
       <updated>1414580138019</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Сериализация и Десериализация">
+      <created>1414750030720</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1414750030720</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
